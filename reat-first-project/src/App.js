@@ -3,7 +3,8 @@ import Navbar from './components/Navbar';
 function App(){
   return(
     <>    
-    <Navbar title="TextUtils2" aboutus = "About1" />
+    {/* <Navbar title="TextUtils2" aboutus = "About1" /> */}
+    <Navbar />
     </>
 
   )
